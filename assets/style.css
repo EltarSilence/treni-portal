@@ -1,0 +1,21 @@
+.md-form textarea.md-textarea {
+    resize: auto;
+}
+
+#main {
+    padding-top: 80px;
+}
+
+.main-sec td {
+    font-size: 12pt;
+    font-weight: bold;
+
+}
+
+#tablePreview td {
+    vertical-align: middle;
+}
+
+td:hover {
+        cursor:move;
+}
